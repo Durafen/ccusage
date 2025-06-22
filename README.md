@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/ryoppippi/ccusage@main/docs/logo.svg" alt="ccusage logo" width="256" height="256">
-    <h1>ccusage</h1>
+    <h1>ccusage</h1>dasdasd
 </div>asdsadsadsaddsadsadsadsadsadsaasd
 
 <p align="center">
